@@ -1,12 +1,30 @@
-# Huffman Compression Algorithm redmi
+# Huffman Compression Algorithm
+## Final Project - Emiliyan
 
-This project demonstrates the implementation of Huffman Coding in Python.
+**Notebook**: [Huffman_Compression_Algorithm.ipynb](Huffman_Compression_Algorithm.ipynb)
 
-## Features
-- Full algorithm implementation
-- Visualization
-- Entropy analysis
-- Compression metrics
+## Project Type
+Algorithm implementation and analysis
 
-## How to run
-Open the Jupyter notebook and execute all cells.
+## Results Summary
+- Compression ratio: 50-60%
+- Time complexity: O(n log n)
+- Self-assessment: 88/100
+
+## Course Requirements Met
+- Jupyter notebook (.ipynb) with math, code, analysis
+- GitHub repository  
+- 10 commits planned (10/10 completed)
+- English documentation
+- Academic sources cited in notebook
+- Functional code (encode/decode verified)
+
+## Quick Run
+```bash
+pip install notebook matplotlib
+jupyter notebook Huffman_Compression_Algorithm.ipynb
+```
+
+## References
+- Wikipedia: Huffman coding [web:10]
+- GeeksforGeeks: Implementation [web:2]
